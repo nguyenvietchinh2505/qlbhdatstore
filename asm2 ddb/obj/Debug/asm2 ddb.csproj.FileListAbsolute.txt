@@ -1,0 +1,37 @@
+E:\asm2 ddb\asm2 ddb\bin\Debug\asm2 ddb.exe.config
+E:\asm2 ddb\asm2 ddb\bin\Debug\asm2 ddb.exe
+E:\asm2 ddb\asm2 ddb\bin\Debug\asm2 ddb.pdb
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2 ddb.csproj.AssemblyReference.cache
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2 ddb.csproj.SuggestedBindingRedirects.cache
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.Properties.Resources.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2 ddb.csproj.GenerateResource.cache
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2 ddb.csproj.CoreCompileInputs.cache
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2 ddb.exe
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2 ddb.pdb
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.fCreateAC.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.fLogin.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.fUser.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.fAdmin.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.fBuy.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.FManagementEmployee.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.InvoiceForm.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.CheckInvoice.resources
+E:\asm2 ddb\asm2 ddb\obj\Debug\asm2_ddb.ManagementCustomer.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\bin\Debug\asm2 ddb.exe.config
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\bin\Debug\asm2 ddb.exe
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\bin\Debug\asm2 ddb.pdb
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2 ddb.csproj.AssemblyReference.cache
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.fAdmin.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.fBuy.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.CheckInvoice.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.fCreateAC.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.FManagementEmployee.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.InvoiceForm.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.fLogin.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.ManagementCustomer.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.Properties.Resources.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2_ddb.fUser.resources
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2 ddb.csproj.GenerateResource.cache
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2 ddb.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2 ddb.exe
+C:\Users\MY PC\Source\Repos\ddd\asm2 ddb\obj\Debug\asm2 ddb.pdb
